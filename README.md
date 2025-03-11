@@ -1,4 +1,4 @@
-Hi there! 👋 I'm Sathvika
+Hi there! I'm Sathvika Eshkilla
 🎓 B.Tech CSE | NIT Warangal
 💡 Passionate about technology, coding, and innovation
 

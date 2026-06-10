@@ -1,12 +1,13 @@
-Hi there! I'm Sathvika Eshkilla
-🎓 B.Tech CSE | NIT Warangal
-💡 Passionate about technology, coding, and innovation
+# Hi there! 👋 I'm Sathvika
 
-🚀 About Me
-🔭 I'm a 2nd-year Computer Science student exploring the world of tech.
-💻 I love working on projects related to ML, web development, and problem-solving.
-🌱 Currently learning Data Structures, Algorithms, and Machine Learning.
+🎓 Final-year B.Tech CSE student at NIT Warangal
 
+💻 Interested in Full-Stack Development (MERN), AI, and Machine Learning
 
-💼 LinkedIn: [https://www.linkedin.com/in/sathvika-eshkilla-2a44a528a/]
+🚀 I enjoy building projects, solving problems, and exploring how technology can be used to create real-world impact.
+
+🌱 Currently learning, building, and improving every day.
+
+📫 LinkedIn: [www.linkedin.com/in/sathvika-eshkilla-2a44a528a](http://www.linkedin.com/in/sathvika-eshkilla-2a44a528a)
+
 
